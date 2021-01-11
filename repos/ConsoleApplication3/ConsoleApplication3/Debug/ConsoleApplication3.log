@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\hjh\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\hjh\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(7): warning C4717: 'mul': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  ConsoleApplication3.vcxproj -> C:\Users\hjh\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
